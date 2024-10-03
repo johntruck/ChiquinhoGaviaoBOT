@@ -5,9 +5,13 @@ A intenção do projeto foi fazer um chatbot que interaje com o usuário apenas 
 **Funcionalidades:**
 
 -> Cria uma dieta personalizada para você (sem algum ingrediente que você não gosta e etc...).
+
 -> Calcula a sua meta calórica diária baseada nos seus objetivos.
+
 -> Automaticamente calcula e registra a quantidade de calorias de cada refeição feita (o chatbot identifica a quantidade de calorias da refeição).
+
 -> Comunicação via telegram.
+
 
 **Utilidade:**
 
