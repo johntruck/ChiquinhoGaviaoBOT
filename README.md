@@ -1,5 +1,4 @@
-O ChiquinhoGaviaoBOT é um chatbot do telegram de nutrição feito para criar dietas personalizadas e ajudar o usuário a registrar o consumo de calórico diário. Ele foi criado durante o Bootcamp CodeLab por alunos do IME-USP (Instituto de
-matemática e estatística da USP).
+O ChiquinhoGaviaoBOT é um chatbot do telegram de nutrição feito para criar dietas personalizadas e ajudar o usuário a registrar o consumo de calórico diário. Ele foi criado durante o Bootcamp CodeLab por alunos do IME-USP (Instituto de matemática e estatística da USP).
 A intenção do projeto foi fazer um chatbot que interaje com o usuário apenas com linguagem natural, de forma a motivar a experimentação das capacidades do modelo utilizado (sabia-3).
 **Funcionalidades:**
 -> Cria uma dieta personalizada para você (sem algum ingrediente que você não gosta e etc...).
